@@ -1,0 +1,39 @@
+{
+  "debitCredits": [
+    {
+      "Date": "Sat",
+      "Debit": 300,
+      "Credit": 500
+    },
+    {
+      "Date": "Sun",
+      "Debit": 400,
+      "Credit": 200
+    },
+    {
+      "Date": "Mon",
+      "Debit": 350,
+      "Credit": 450
+    },
+    {
+      "Date": "Tue",
+      "Debit": 500,
+      "Credit": 600
+    },
+    {
+      "Date": "Wed",
+      "Debit": 250,
+      "Credit": 300
+    },
+    {
+      "Date": "Thu",
+      "Debit": 450,
+      "Credit": 550
+    },
+    {
+      "Date": "Fri",
+      "Debit": 400,
+      "Credit": 500
+    }
+  ]
+}

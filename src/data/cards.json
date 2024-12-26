@@ -1,0 +1,16 @@
+{
+    "cards": [
+        {
+            "Balance": 10000,
+            "CardHolder": "John Doe",
+            "ValidThru": "01/24",
+            "CardNumber": "1234 **** **** 5678"
+        },
+        {
+            "Balance": 7500,
+            "CardHolder": "Jane Smith",
+            "ValidThru": "05/23",
+            "CardNumber": "8765 **** **** 4321"
+        }
+    ]
+}

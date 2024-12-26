@@ -1,0 +1,11 @@
+{
+  "balanceHistory": [
+    { "Month": "Jan", "Balance": 500 },
+    { "Month": "Feb", "Balance": 700 },
+    { "Month": "Mar", "Balance": 800 },
+    { "Month": "Apr", "Balance": 600 },
+    { "Month": "May", "Balance": 900 },
+    { "Month": "Jun", "Balance": 1000 },
+    { "Month": "Jul", "Balance": 1100 }
+  ]
+}

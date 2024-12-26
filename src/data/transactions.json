@@ -1,0 +1,84 @@
+{
+    "transactions": [
+        {
+            "Id": "#12548806",
+            "Title": "Salary Payment",
+            "Date": "1 April 2021",
+            "Type": "Deposit",
+            "Amount": 5000,
+            "Card": "1111 ****"
+        },
+        {
+            "Id": "#12548807",
+            "Title": "Rent Payment",
+            "Date": "3 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 1500,
+            "Card": "2222 ****"
+        },
+        {
+            "Id": "#12548808",
+            "Title": "Grocery Shopping",
+            "Date": "5 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 200,
+            "Card": "3333 ****"
+        },
+        {
+            "Id": "#12548809",
+            "Title": "Electricity Bill",
+            "Date": "7 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 100,
+            "Card": "4444 ****"
+        },
+        {
+            "Id": "#12548810",
+            "Title": "Internet Bill",
+            "Date": "10 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 50,
+            "Card": "5555 ****"
+        },
+        {
+            "Id": "#12548811",
+            "Title": "Gym Membership",
+            "Date": "12 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 75,
+            "Card": "6666 ****"
+        },
+        {
+            "Id": "#12548812",
+            "Title": "Freelance Payment",
+            "Date": "15 April 2021",
+            "Type": "Deposit",
+            "Amount": 1200,
+            "Card": "7777 ****"
+        },
+        {
+            "Id": "#12548813",
+            "Title": "Dining Out",
+            "Date": "18 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 100,
+            "Card": "8888 ****"
+        },
+        {
+            "Id": "#12548814",
+            "Title": "Movie Tickets",
+            "Date": "20 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 50,
+            "Card": "9999 ****"
+        },
+        {
+            "Id": "#12548815",
+            "Title": "Book Purchase",
+            "Date": "22 April 2021",
+            "Type": "Withdrawal",
+            "Amount": 30,
+            "Card": "0000 ****"
+        }
+    ]
+}

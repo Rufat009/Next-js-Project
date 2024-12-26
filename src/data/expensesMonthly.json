@@ -1,0 +1,28 @@
+{
+  "expensesMonthly": [
+    {
+      "Month": "Jan",
+      "Amount": 8000
+    },
+    {
+      "Month": "Feb",
+      "Amount": 9000
+    },
+    {
+      "Month": "Mar",
+      "Amount": 10000
+    },
+    {
+      "Month": "Apr",
+      "Amount": 11000
+    },
+    {
+      "Month": "May",
+      "Amount": 12000
+    },
+    {
+      "Month": "Jun",
+      "Amount": 13000
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "expenses": [
+    {
+      "Percent": 25,
+      "Title": "Investment"
+    },
+    {
+      "Percent": 20,
+      "Title": "Bill Expense"
+    },
+    {
+      "Percent": 25,
+      "Title": "Entertainment"
+    },
+    {
+      "Percent": 30,
+      "Title": "Others"
+    }
+  ]
+}

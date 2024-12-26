@@ -1,0 +1,28 @@
+{
+  "lastTransactions": [
+    {
+      "name": "Netflix Subscription",
+      "date": "1 May 2021",
+      "type": "Entertainment",
+      "accountNumber": "5678 ****",
+      "status": "Completed",
+      "amount": -200
+    },
+    {
+      "name": "Electricity Bill",
+      "date": "3 May 2021",
+      "type": "Utility",
+      "accountNumber": "5678 ****",
+      "status": "Pending",
+      "amount": -150
+    },
+    {
+      "name": "John Doe",
+      "date": "5 May 2021",
+      "type": "Transfer",
+      "accountNumber": "5678 ****",
+      "status": "Completed",
+      "amount": 500
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "Day": "Sat",
+      "Deposit": 300,
+      "Withdraw": 200
+    },
+    {
+      "Day": "Sun",
+      "Deposit": 400,
+      "Withdraw": 100
+    },
+    {
+      "Day": "Mon",
+      "Deposit": 350,
+      "Withdraw": 150
+    },
+    {
+      "Day": "Tue",
+      "Deposit": 500,
+      "Withdraw": 250
+    },
+    {
+      "Day": "Wed",
+      "Deposit": 450,
+      "Withdraw": 300
+    },
+    {
+      "Day": "Thu",
+      "Deposit": 600,
+      "Withdraw": 400
+    },
+    {
+      "Day": "Fri",
+      "Deposit": 700,
+      "Withdraw": 500
+    }
+  ]
+}
